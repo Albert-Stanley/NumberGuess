@@ -1,5 +1,5 @@
 {
-  "name": "targetapp",
+  "name": "numberguess",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
