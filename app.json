@@ -1,6 +1,5 @@
 {
   "expo": {
-    "backgroundColor": "#ffffff",
     "name": "NumberGuess",
     "slug": "NumberGuess",
     "version": "1.0.0",
